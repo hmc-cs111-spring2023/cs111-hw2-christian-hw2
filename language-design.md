@@ -29,7 +29,6 @@ For each quote, describe what it was about the quote that led you pick it.
 
     This is a perspective I would have initially disagreed with before reading this piece, because as an API user, I have often found myself frustrated with the lack of an existing piece of functionality. However, now having read through this, I better understand that brevity is valuable in API creation in order to ensure that it can serve its purpose and broadly help as many users as possible without adding unnecessary functionality that some users may be upset if you later remove.
 
-
 ---
 
 **Question**
@@ -51,7 +50,7 @@ How might the themes of _Growing a Language_ relate to ideas from the Fowler rea
 
 **Response**
 
-The themes of _Growing a Language_ relate to ideas from the Fowler reading is that _Growing a Language_ seeks to make programming languages be more like natural language, as he promotes that and urges readers to use natural language more similarly to how programming languages are used as well. Fowler also makes some suggestions to make DSLs more readable, though he states "Don't try to make the DSL read like natural language". This is interesting because they both recognize that there is issues with the design of programming languages, and yet there is some conflict on the boundaries between natural language and programming languages.
+The themes of _Growing a Language_ relate to ideas from the Fowler reading in that _Growing a Language_ seeks to make programming languages be more like natural language, as he pushes for that and urges readers to use natural language more similarly to how programming languages are used. Fowler also makes some suggestions to make DSLs more readable, though he states "Don't try to make the DSL read like natural language". This is interesting because they both recognize that there is issues with the design of programming languages, and yet there is some conflict on the boundaries between natural language and programming languages.
 
 ---
 
